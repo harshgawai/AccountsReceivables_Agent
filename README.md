@@ -51,4 +51,3 @@ The copilot is built using **LangChain** and **Gradio**, utilizing an SQL Agent 
    ```bash
    python app.py
    ```
-   *Navigate to the local URL provided in the terminal (usually http://127.0.0.1:7860).*
